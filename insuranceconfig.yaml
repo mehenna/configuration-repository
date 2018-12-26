@@ -2,7 +2,7 @@ spring:
   application:
     name: claims-service
 server:
-  port: 8004
+  port: 8005
 eureka:
   client:
     serviceUrl:
