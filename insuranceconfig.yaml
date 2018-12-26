@@ -18,7 +18,7 @@ baggage:
 logging:
   level:
     org:
-      springframework: TRACE
+      springframework: DEBUG
 
 
 
